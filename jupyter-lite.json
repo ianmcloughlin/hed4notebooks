@@ -39,7 +39,7 @@
     "mathjaxConfig": "TeX-AMS_CHTML-full,Safe",
     "settingsOverrides": {
       "@jupyterlab/apputils-extension:themes": {
-        "theme": "Material Darker"
+        "theme": "JupyterLab Light"
       }
     }
   },
