@@ -15,6 +15,19 @@
       {
         "extension": "./extension",
         "liteExtension": false,
+        "load": "static/remoteEntry.baa703106ef818a6164f.js",
+        "name": "@mohirio/jupyterlab-horizon-theme",
+        "style": "./style"
+      },
+      {
+        "extension": "./extension",
+        "liteExtension": false,
+        "load": "static/remoteEntry.d1a17acff11fc65c0e71.js",
+        "name": "@oriolmirosa/jupyterlab_materialdarker"
+      },
+      {
+        "extension": "./extension",
+        "liteExtension": false,
         "load": "static/remoteEntry.bf6b3192a558615425cd.js",
         "name": "@telamonian/theme-darcula"
       },
