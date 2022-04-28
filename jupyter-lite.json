@@ -21,6 +21,13 @@
       {
         "extension": "./extension",
         "liteExtension": false,
+        "load": "static\\remoteEntry.4260c02167da613327ae.js",
+        "name": "JLDracula",
+        "style": "./style"
+      },
+      {
+        "extension": "./extension",
+        "liteExtension": false,
         "load": "static/remoteEntry.509ecd914d0df11eb8e1.js",
         "name": "jupyter-matplotlib"
       },
