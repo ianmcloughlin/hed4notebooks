@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-07-15T16:03:34.429576Z",
+      "format": null,
+      "last_modified": "2022-07-15T16:02:39.249795Z",
+      "mimetype": null,
+      "name": "triangle.dio",
+      "path": "diagrams/triangle.dio",
+      "size": 1036,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-07-15T16:03:34.429576Z",
+  "format": "json",
+  "last_modified": "2022-07-15T16:03:34.429576Z",
+  "mimetype": null,
+  "name": "diagrams",
+  "path": "diagrams",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
