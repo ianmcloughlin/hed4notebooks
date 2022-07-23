@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-07-15T16:03:34.429576Z",
+      "created": "2022-07-23T15:27:56.706048Z",
       "format": null,
-      "last_modified": "2022-07-15T16:02:39.249795Z",
+      "last_modified": "2022-07-23T15:26:48.560255Z",
       "mimetype": null,
       "name": "triangle.dio",
       "path": "diagrams/triangle.dio",
@@ -13,9 +13,9 @@
       "writable": true
     }
   ],
-  "created": "2022-07-15T16:03:34.429576Z",
+  "created": "2022-07-23T15:27:56.706048Z",
   "format": "json",
-  "last_modified": "2022-07-15T16:03:34.429576Z",
+  "last_modified": "2022-07-23T15:27:56.706048Z",
   "mimetype": null,
   "name": "diagrams",
   "path": "diagrams",
